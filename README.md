@@ -2,7 +2,7 @@
 
 1.Download postman  collection file and create an account
 2.open it ,in that left sidebar click collections and then click new collections
-3.pop up will appearear name: Bacon Ipsum API and also give  a description,click create
+3.pop up will appear name: Bacon Ipsum API and also give  a description,click create
 4.inside the new collection click add a request ,name it Fetch  bacon Ipsum
 in the request Tab change the http method to GET
 5.enter the URL: https://baconipsum.com/api/?type=all and click save
